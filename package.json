@@ -14,7 +14,8 @@
   "keywords": [
     "11ty",
     "dyve.dev",
-    "postcss"
+    "postcss",
+    "eleventy"
   ],
   "author": "dyve.dev",
   "license": "ISC",
